@@ -75,6 +75,7 @@ if (isset($_POST['edit'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google-site-verification" content="FoaoInpMSa1GddVo36aaINkZ_lJibakhdbmM7lEzmbM" />
     <title>Blog Fotograficzny</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -163,7 +164,7 @@ if (isset($_POST['edit'])) {
 
     <!-- Stopka -->
     <footer>
-        <p>&copy; 2025 Jan Kowalski</p>
+        <p>Michał Muszyński</p>
     </footer>
 </body>
 </html>
